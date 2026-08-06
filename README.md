@@ -1,30 +1,256 @@
-# 💫 About Me:
-🔭 I’m currently working on my Web Development and Programming Skills.<br>👯 I’m looking to collaborate on visionary products with a mission towards serving the people and community.<br>💬 Ask me about Business, new ideas, planning, Communities, Development and Designing.<br>💻 My Skills:<br>                    
+<!-- ========================================= -->
+<!--          GitHub Profile README            -->
+<!-- ========================================= -->
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Harikesh-sharma&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Harikesh-sharma&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harikesh-sharma&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Harikesh-sharma&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Harikesh Sharma
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=700&lines=Full+Stack+Developer;Computer+Science+Engineer;Building+Real+World+Products;Open+Source+Enthusiast;Learning+DevOps+%7C+Cloud+%7C+System+Design" />
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Harikesh-sharma&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img src="https://komarev.com/ghpvc/?username=Harikesh-sharma&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Harikesh-sharma&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/BmZSVMtb) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dev-harikesh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harikesh-sharma) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@sharikesh462) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/inspired-306) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sharikesh462) 
+# 💻 Who Am I?
 
+```bash
+> whoami
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/harikeshsharma) 
+Name      : Harikesh Sharma
+Role      : Full Stack Developer
+Education : B.Tech Computer Science
+Location  : India
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Status    : Building products.
+Mission   : Solve real-world problems through technology.
+Learning  : DevOps • Cloud • System Design
+Looking   : Software Development Internship
+```
+
+---
+
+# 🚀 About Me
+
+- 🔭 Building scalable Full Stack applications
+- 🌱 Currently mastering DevOps & Cloud
+- 💡 Passionate about SaaS, AI and Startup Products
+- 🤝 Love Open Source & Community Building
+- ⚡ I enjoy turning ideas into working products
+- 🎯 Goal: Build software used by thousands
+
+---
+
+# ⚙️ Tech Arsenal
+
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,dart,html,css" />
+</p>
+
+---
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,bootstrap,tailwind" />
+</p>
+
+---
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,firebase" />
+</p>
+
+---
+
+## Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
+
+---
+
+## DevOps & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,vercel,netlify,render" />
+</p>
+
+---
+
+## Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma,wordpress" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 📊 Bizovora
+
+Business Management Platform
+
+✔ Inventory Management
+
+✔ Sales Tracking
+
+✔ Expense Tracking
+
+✔ Customer Management
+
+✔ Analytics Dashboard
+
+**Stack**
+
+Flutter • NestJS • PostgreSQL • Firebase
+
+---
+
+## 🌍 AI Travel Planner
+
+- AI Generated Itineraries
+- Maps Integration
+- Expense Planning
+- Smart Recommendations
+
+---
+
+## 💬 Chat Application
+
+- Authentication
+- Real-time Messaging
+- Media Sharing
+- Push Notifications
+
+---
+
+## 🛒 E-Commerce Platform
+
+- Authentication
+- Admin Dashboard
+- Razorpay Payments
+- Product Management
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Harikesh-sharma&show_icons=true&theme=tokyonight&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harikesh-sharma&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Harikesh-sharma&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophy Cabinet
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Harikesh-sharma&theme=algolia&column=4&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+```text
+██████████████████░░░░░░  JavaScript Ecosystem
+
+████████████████░░░░░░░░  React
+
+██████████████░░░░░░░░░░  Backend Development
+
+████████████░░░░░░░░░░░░  DevOps
+
+██████████░░░░░░░░░░░░░░  Docker
+
+████████░░░░░░░░░░░░░░░░  Kubernetes
+
+██████░░░░░░░░░░░░░░░░░░  AWS
+```
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/harikesh-sharma">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/Harikesh-sharma">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://instagram.com/dev-harikesh">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
+<a href="https://medium.com/@sharikesh462">
+<img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium"/>
+</a>
+
+<a href="https://x.com/sharikesh462">
+<img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x"/>
+</a>
+
+</p>
+
+---
+
+# ☕ Support My Work
+
+<p align="center">
+
+<a href="https://buymeacoffee.com/harikeshsharma">
+<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
+</a>
+
+</p>
+
+---
+
+# 💭 Philosophy
+
+> **"Code is more than syntax. It's a way to transform ideas into impact."**
+
+```cpp
+while(alive)
+{
+    Learn();
+    Build();
+    Break();
+    Fix();
+    Repeat();
+}
+```
+
+---
+
+<div align="center">
+
+### Thanks for visiting 👨‍💻
+
+⭐ If you like my work, consider starring my repositories.
+
+</div>
