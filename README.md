@@ -164,7 +164,7 @@ Flutter • NestJS • PostgreSQL • Firebase
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Harikesh-sharma&theme=algolia&column=4&margin-w=15&margin-h=15"/>
+![](https://github-profile-trophy.vercel.app/?username=Harikesh-sharma&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 </p>
 
@@ -202,7 +202,7 @@ Flutter • NestJS • PostgreSQL • Firebase
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://instagram.com/dev-harikesh">
+<a href="https://instagram.com/harikesh_1">
 <img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
 
@@ -213,6 +213,7 @@ Flutter • NestJS • PostgreSQL • Firebase
 <a href="https://x.com/sharikesh462">
 <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x"/>
 </a>
+
 
 </p>
 
