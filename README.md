@@ -95,7 +95,7 @@ Looking   : Software Development Internship
 
 # 🚀 Featured Projects
 
-## 📊 Bizovora
+## 📊 C.H.A.I 
 
 Business Management Platform
 
@@ -115,7 +115,7 @@ Flutter • NestJS • PostgreSQL • Firebase
 
 ---
 
-## 🌍 AI Travel Planner
+## 🌍 Travel Genie
 
 - AI Generated Itineraries
 - Maps Integration
